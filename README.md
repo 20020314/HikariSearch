@@ -1,4 +1,4 @@
-# Hikari 动漫图片聚合搜索
+# Hikari 动漫图片聚合搜索. 
 
 [**English README**](./README_en.md)
 
